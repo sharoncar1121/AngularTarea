@@ -1,0 +1,23 @@
+.boton-like,
+.boton-compartir {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.boton-like {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.boton-compartir {
+  background-color: #008CBA;
+  color: white;
+}
+
+.boton-like:hover,
+.boton-compartir:hover {
+  background-color: #45a049;
+}

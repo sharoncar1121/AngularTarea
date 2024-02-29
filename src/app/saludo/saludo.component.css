@@ -1,0 +1,9 @@
+.fondo-gris{
+    background-color: #d0d0d0;
+}
+
+.elemento{
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+}
